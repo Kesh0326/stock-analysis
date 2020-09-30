@@ -25,11 +25,11 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 #### 2017 Stock Results
 
-![2017 Results]
+![2017 Results](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/2017%20Stock%20Results.png)
 
 #### 2018 Stock Results
 
-![2018 Results]
+![2018 Results](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/2018_Stock_Results.png)
 
 #### 2017 original script runtime results
 
@@ -37,7 +37,7 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 #### 2017 refactored script runtime results
 
-![2017 refactored script runtime]
+![2017 refactored script runtime](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/Resources/VBA_Challenge_2017.png)
 
 #### 2018 original script runtime results
 
@@ -45,7 +45,7 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 #### 2018 refactored script runtime results
 
-![2018 refactored script runtime]
+![2018 refactored script runtime](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
