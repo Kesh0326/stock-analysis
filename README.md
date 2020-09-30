@@ -49,5 +49,6 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 ## Summary
 
-Refactoring code enabled shorter runtimes, and more optimized code performance in terms of formatting and structuring. However a potential downside is the addition of new bugs that can arise through human error thus impacting code performance
+       - Refactoring code enabled shorter runtimes, and more optimized code performance in terms of formatting and structuring. However a potential downside is the          addition of new bugs that can arise through human error thus impacting code performance.
+       - As seen from the original and refactored runtime images above, it is evident that the runtime for the refactored code is about 4 times faster than the              original code. 
 
