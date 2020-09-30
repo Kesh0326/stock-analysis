@@ -33,7 +33,7 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 #### 2017 original script runtime results
 
-![2017 original script runtime]
+![2017 original script runtime](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/2017_Original_Runtime.png)
 
 #### 2017 refactored script runtime results
 
@@ -41,7 +41,7 @@ cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
 
 #### 2018 original script runtime results
 
-![2018 original script runtime]
+![2018 original script runtime](https://raw.githubusercontent.com/Kesh0326/stock-analysis/master/2018_Original_Runtime.png)
 
 #### 2018 refactored script runtime results
 
